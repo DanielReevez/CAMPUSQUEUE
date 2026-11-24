@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CampusQueue</string>
+    <string name="tagline">Check the queue before you go</string>
+    <string name="logo_description">CampusQueue logo</string>
+    <!-- Login -->
+    <string name="login_title">Log in</string>
+    <string name="hint_email">University email</string>
+    <string name="hint_password">Password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="btn_login">Log in</string>
+    <string name="link_register">New here? Create an account</string>
+    <string name="forgot_message">Password reset will be added in a later milestone.</string>
+    <string name="welcome_user">Welcome, %1$s</string>
+    <string name="account_created">Account created. Please log in.</string>
+    <!-- Register -->
+    <string name="register_title">Create account</string>
+    <string name="hint_full_name">Full name</string>
+    <string name="hint_reg_no">Registration number (2026/BCS/001)</string>
+    <string name="label_faculty">Faculty</string>
+    <string name="label_role">I am a</string>
+    <string name="role_student">Student</string>
+    <string name="role_staff">Service staff</string>
+    <string name="hint_confirm">Confirm password</string>
+    <string name="accept_terms">I agree to use the app for queue services only</string>
+    <string name="btn_register">Create account</string>
+    <string name="link_login">Already registered? Log in</string>
+    <string-array name="faculties">
+        <item>Select faculty</item>
+        <item>Computing and Informatics</item>
+        <item>Science and Technology</item>
+        <item>Business and Management</item>
+        <item>Education</item>
+        <item>Law</item>
+    </string-array>
+    <!-- Validation messages -->
+    <string name="err_name_required">Enter your full name</string>
+    <string name="err_regno_format">Use the format 2026/BCS/001</string>
+    <string name="err_email_required">Enter your email</string>
+    <string name="err_email_format">Enter a valid email address</string>
+    <string name="err_password_required">Enter your password</string>
+    <string name="err_password_short">Use at least 8 characters</string>
+    <string name="err_password_weak">Include at least one letter and one number</string>
+    <string name="err_confirm_mismatch">Passwords do not match</string>
+    <string name="err_faculty">Select your faculty</string>
+    <string name="err_role">Select your role</string>
+    <string name="err_terms">You must accept to continue</string>
+    <string name="err_email_exists">An account with this email already exists</string>
+    <string name="err_invalid_credentials">Email or password is incorrect</string>
+    <!-- Home -->
+    <string name="home_welcome">Welcome, %1$s</string>
+    <string name="home_role">Signed in as %1$s</string>
+    <string name="home_services">University services</string>
+    <string name="btn_logout">Log out</string>
+    <string name="logged_out">You have been logged out</string>
+    <string name="service_waiting">%1$d waiting</string>
+    <string name="service_wait_time">About %1$d min (estimated)</string>
+    <string name="service_selected">%1$s selected. Queue details come in the next milestone.</string>
+    <string name="filter_label">Show</string>
+    <string-array name="filters">
+        <item>All services</item>
+        <item>Open now</item>
+        <item>Paused</item>
+    </string-array>
+    <string name="status_open">Open</string>
+    <string name="status_paused">Paused</string>
+</resources>

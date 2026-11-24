@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.CampusQueue" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/cq_navy</item>
+        <item name="colorOnPrimary">@color/cq_surface</item>
+        <item name="colorSecondary">@color/cq_green</item>
+        <item name="android:windowBackground">@color/cq_background</item>
+        <item name="android:statusBarColor">@color/cq_navy</item>
+    </style>
+</resources>
