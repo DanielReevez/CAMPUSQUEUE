@@ -1,7 +1,7 @@
 # CampusQueue — Campus Service Queue Management System
 
 **CSC3109 Mobile Applications Development · BCS III · 2026/2027**
-Student: CampusQueue Administrator · Reg. No: 2026/BCS/001 · Lecturer: Nakato Constance Nakimuli
+Student: CampusQueue Administrator · Reg. No: 2024/BCS/035/PS · Lecturer: Nakato Constance Nakimuli
 
 CampusQueue is a native Android application built in Java and XML designed to eliminate crowding at campus service points (ICT Help Desk, Bursar's Office, Registration, Clinic, Library, Student Affairs) through a virtual queue system.
 
